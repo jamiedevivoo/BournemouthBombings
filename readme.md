@@ -14,4 +14,4 @@ You're welcome to downlaod and review this code. However, I do ask that you refe
 
 Feedback on the project is welcome, as are pull requests and code reviews (although the code is a mess so there isn't much point).
 
-If you really like it and would like to support me and any of my other projects, feel free to [support my next cup of coffee](https://monzo.me/jamiedanieldevivo) ☺️♥️
+If you like it and would like to support me and any of my other projects, feel free to [support my next cup of coffee](https://monzo.me/jamiedanieldevivo) ☺️♥️
